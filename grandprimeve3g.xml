@@ -1,0 +1,8 @@
+<manifest>
+  <project path="hardware/sprd" name="koquantam/android_hardware_sprd" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/grandprimeve3g" name="koquantam/android_device_samsung_grandprimeve3g" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/sprd-common" name="koquantam/android_device_samsung_sprd-common" remote="github" revision="cm-13.0" /> 
+  <project path="vendor/samsung/grandprimeve3g" name="koquantam/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/grandprimeve3g" name="koquantam/android_kernel_samsung_grandprimeve3g-CORE" remote="github" revision="cm-13.0" /> 
+  <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" /> 
+</manifest>
