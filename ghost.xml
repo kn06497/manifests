@@ -1,0 +1,8 @@
+<manifest>
+<project path="device/motorola/ghost" name="Megatron007/device_motorola_ghost" remote="github" revision="cm-14.0"/>
+<project path="device/motorola/msm8960dt-common" name="Megatron007/device_motorola_msm8960dt-common" remote="github" revision="cm-14.0"/>
+<project path="kernel/motorola/ghost" name="Megatron007/kernel_motorola_ghost" remote="github" revision="cm-14.0"/>
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-14.1" />
+  <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-14.1" /> 
+  <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />    
+</manifest>
